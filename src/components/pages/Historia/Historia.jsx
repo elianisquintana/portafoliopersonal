@@ -12,7 +12,7 @@ export function Historia(){
                     </div>
                     <div className="col-12 col-md-8">
                         <h2>Netflix</h2>
-                        <p>Netflix es un servicio de streaming por suscripción que permite a los usuarios ver películas, series y documentales en casi cualquier dispositivo conectado a internet. Ofrece un amplio catálogo de contenido, incluyendo producciones originales de Netflix, y agrega nuevo contenido regularmente. La plataforma funciona mediante una tarifa mensual, lo que permite a los usuarios acceder a un catálogo ilimitado de contenido por un precio fijo.  </p>
+                        <p> En este trabajo de clase, he desarrollado una página web inspirada en la plataforma de streaming Netflix, con fines educativos y de práctica en diseño web. El objetivo principal ha sido aplicar conocimientos de HTML, CSS y JavaScript para crear una interfaz visual atractiva, estructurada y funcional.  </p>
                         </div>
                 </div>
             </section>
@@ -20,8 +20,7 @@ export function Historia(){
                 <div className="row">
                     <div className="col-12 col-md-8">
                         <h2>Epm</h2>
-                        <p>Empresas Públicas de Medellín (EPM):
-Es una empresa colombiana de servicios públicos domiciliarios, de propiedad del Distrito de Medellín. Opera en energía, gas, agua, saneamiento y telecomunicaciones, tanto a nivel local como en otros países.  </p>
+                        <p>Como parte de un proyecto escolar, desarrollé una página web llamada EPM, inspirada en una empresa de servicios públicos. El objetivo fue aprender a diseñar, estructurar y programar una página web informativa utilizando HTML, CSS y JavaScript, aplicando conocimientos adquiridos en clase de tecnología o informática.  </p>
                     </div>
                     <div className="col-12 col-md-4">
                         <img src="../../../../src/assets/img/epm.avif" alt="" className='img-fluid' />
@@ -38,7 +37,7 @@ Es una empresa colombiana de servicios públicos domiciliarios, de propiedad del
                         < div className="col-12 col-md-8">
                       
                         <h2>Ahorrando APP</h2>
-                        <p>"Ahorrando App" se refiere a una aplicación móvil que facilita el ahorro de dinero, generalmente vinculada a una institución financiera como Coopeuch o BBVA. Permite configurar metas de ahorro, establecer reglas de ahorro personalizadas y llevar un seguimiento de los avances.   </p>
+                        <p> En este trabajo de clase he creado una página web llamada Ahorrando App, una plataforma educativa que tiene como objetivo ayudar a las personas a mejorar sus hábitos financieros. Este proyecto fue realizado utilizando herramientas básicas de desarrollo web como HTML, CSS y JavaScript, y me permitió aplicar los conocimientos aprendidos en clase de informática y tecnología.   </p>
                     </div>
                     </div>
                     
@@ -49,7 +48,7 @@ Es una empresa colombiana de servicios públicos domiciliarios, de propiedad del
                 <div className="row">
                     <div className="col-12 col-md-8">
                         <h2>Indice corporal</h2>
-                        <p> El Índice de Masa Corporal (IMC) es una medida que relaciona el peso de una persona con su estatura. Es un indicador útil para evaluar si una persona tiene un peso saludable, bajo peso, sobrepeso u obesidad. Se calcula dividiendo el peso en kilogramos por la estatura en metros al cuadrado.   </p>
+                        <p>  En este proyecto de clase desarrollé una página web llamada Índice Corporal, cuyo propósito es ayudar a las personas a calcular su Índice de Masa Corporal (IMC) de forma sencilla y rápida. Este trabajo me permitió integrar conocimientos de desarrollo web con temas de salud, aplicando HTML, CSS y JavaScript en la creación de una herramienta útil y educativa.   </p>
                     </div>
                     <div className="col-12 col-md-4">
                         <img src="../../../../src/assets/img/indicecorporal.jpg" alt="" className='img-fluid' />
@@ -66,7 +65,7 @@ Es una empresa colombiana de servicios públicos domiciliarios, de propiedad del
                         < div className="col-12 col-md-8">
                       
                         <h2>Tienda ropa</h2>
-                        <p>Una tienda de ropa o almacén de ropa es un establecimiento que vende artículos de vestir como pantalones, camisetas, chaquetas, etc. Las boutiques, por otro lado, son tiendas pequeñas que suelen vender ropa de diseñador o de marcas menos conocidas, a precios más elevados. También existen tiendas especializadas, como las que venden ropa para deportes o uniformes escolares, que se denominan "outfitter".    </p>
+                        <p>El objetivo principal del trabajo fue crear una tienda virtual funcional que simule el entorno de una tienda real, con productos, categorías, imágenes y botones interactivos. A través de este proyecto, aprendí a estructurar una página de comercio electrónico básica usando tecnologías como HTML, CSS y JavaScript    </p>
                     </div>
                     </div>
                     

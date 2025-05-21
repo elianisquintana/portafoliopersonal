@@ -133,11 +133,9 @@ export function Experiencia(){
                     <div className="col-8 card p-3">
                         <h2>Frond end</h2>
                         <ul>
-                            <li>Variables y Constante</li>
-                            <li>Tipos de Datos</li>
-                            <li>Operadores</li>
-                            <li>Condicionales</li>
-                            <li>Ciclos y Bucles</li>
+                            <li>React.js</li>
+                            <li>github</li>
+                            
                         </ul>
                     </div>
                 </div>
